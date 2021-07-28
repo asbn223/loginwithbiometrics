@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "339022776078",
+    "project_id": "letitgrow-a6e21",
+    "storage_bucket": "letitgrow-a6e21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339022776078:android:cc1a0fa94d7821883d395f",
+        "android_client_info": {
+          "package_name": "com.asbn.letitgrow_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339022776078-0rc17q1vnsine7qfbmqiq2jf1tk4qiim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhz8QeDeVjZhR0mirOBXF6xlTobk8GYgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339022776078-0rc17q1vnsine7qfbmqiq2jf1tk4qiim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
